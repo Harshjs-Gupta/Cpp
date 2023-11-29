@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/CppGithub/Cpp/Reverse",
-      "program": "d:/CppGithub/Cpp/Reverse/build/Debug/outDebug",
+      "cwd": "d:/CppGithub/Cpp/String",
+      "program": "d:/CppGithub/Cpp/String/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
